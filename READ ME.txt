@@ -1,0 +1,14 @@
+OrigamiStudios - SimpleToDoListSampleCode
+
+Swift - Universal iOS application for adding tasks list to do. Supports persistent storage for tasks list using Core Data.
+
+Software Requirement
+
+- Xcode Version 8.2.1 or latest
+- Swift Version 3.0.2 or latest
+- Operating System Version 10.12.2
+
+Deployment Environment
+
+- Deployment Target 9.3 or above
+- Device Category Universal
